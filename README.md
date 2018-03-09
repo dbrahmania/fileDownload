@@ -41,3 +41,11 @@ File: [/views/index.jade](https://github.com/deepak-brahmania/fileDownload/blob/
 That's it. 
 
 
+## Running Instructions
+install dependencies:
+     $ cd filetransfer && npm install
+
+run the app:
+     $ DEBUG=filetransfer:* npm start
+
+
